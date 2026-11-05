@@ -69,8 +69,6 @@
  
    ### Recommendations
     
-  - Use quarterly or average monthly analysis instead of YoY when the year is incomplete
- 
   - Monitor highly volatile food categories for early price increase signals
  
    ### Limitations
